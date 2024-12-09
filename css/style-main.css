@@ -250,23 +250,23 @@ h2{
   }
 
   #arizzo_slide{
-    background-image: url(../img/banner/arizzo8_banner.png);
+    background-image: url(./img/banner/arizzo8_banner.png);
   }
 
   #k5_slide{
-    background-image: url(../img/banner/k5_banner.png);
+    background-image: url(./img/banner/k5_banner.png);
   }
 
   #tiggo_slide{
-    background-image: url(../img/banner/tiggo7_banner.png);
+    background-image: url(./img/banner/tiggo7_banner.png);
   }
 
   #sportage_slide{
-    background-image: url(../img/banner/sportage_banner.png);
+    background-image: url(./img/banner/sportage_banner.png);
   }
 
   #cerato_slide{
-    background-image: url(../img/banner/cerato_banner.png);
+    background-image: url(./img/banner/cerato_banner.png);
   }
 
   .content_slide {
