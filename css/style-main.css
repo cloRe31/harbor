@@ -250,23 +250,23 @@ h2{
   }
 
   #arizzo_slide{
-    background-image: url(/harbor/img/banner/arizzo8_banner.jpg);
+    background-image: url(../img/banner/arizzo8_banner.png);
   }
 
   #k5_slide{
-    background-image: url(/harbor/img/banner/k5_banner.jpg);
+    background-image: url(../img/banner/k5_banner.png);
   }
 
   #tiggo_slide{
-    background-image: url(/harbor/img/banner/tiggo7_banner.jpg);
+    background-image: url(../img/banner/tiggo7_banner.png);
   }
 
   #sportage_slide{
-    background-image: url(/harbor/img/banner/sportage_banner.jpg);
+    background-image: url(../img/banner/sportage_banner.png);
   }
 
   #cerato_slide{
-    background-image: url(/harbor/img/banner/cerato_banner.jpg);
+    background-image: url(../img/banner/cerato_banner.png);
   }
 
   .content_slide {
@@ -1486,7 +1486,7 @@ h2{
   }
 
   #sportage_slide{
-    background-image: url(../img/banner/sportage_mobile.jpg);
+    background-image: url(../img/banner/sportage_mobile.png);
     background-position-x: 30%;
     background-position-y: -20%;
     background-size: auto;
